@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hey! I'm Riddima :)<br>I’m passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative AI,  currently working on building end-to-end  scalable, intelligent applications that combine data-driven insights with user-centric design.  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riddimabenjamin?utm_so) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riddima15benjamin@gmail.com) 
@@ -16,6 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=riddima15benjamin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/riddimabenjamin/)  
-
