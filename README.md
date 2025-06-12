@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Riddima :)<br>I’m passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative AI,  currently working on building end-to-end  scalable, intelligent applications that combine data-driven insights with user-centric design.  
+Hey! I'm Riddima :)<br>I’m passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative AI,  currently working on building end-to-end  scalable, intelligent applications that combine data-driven insights with user-centric design. Let's Connect!
 
 
 ## 🌐 Socials:
