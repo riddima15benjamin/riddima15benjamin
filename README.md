@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22971
-Fork on GitHub
-7705
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm RIDDIMA</h1>
 <h3 align="center">I’m passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative AI, currently working on building end-to-end scalable, intelligent applications that combine data-driven insights with user-centric design. Let's Connect!</h3>
 
