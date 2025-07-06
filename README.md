@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Riddima :)</h1>
+<h1 align="center">hi, i'm Riddima :)</h1>
 <h3 align="center">I’m passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative AI, currently working on building end-to-end scalable, intelligent applications that combine data-driven insights with user-centric design. Let's Connect!</h3>
 
 - 📫 How to reach me **riddima15benjamin@gmail.com**
